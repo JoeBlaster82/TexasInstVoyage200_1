@@ -1,0 +1,9 @@
+:example_1
+:Prgm
+:ClrIO
+:Input "Dame un número A", a
+:Input "Dame un segundo número B", b
+:Input "Finalmente dame un número C", c
+:a+b+c ¬ suma
+:Disp "La suma de A+B+C es: ", suma
+:EndPrgm
